@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "vector build december.data.unityweb",
+"asmCodeUrl": "vector build december.asm.code.unityweb",
+"asmMemoryUrl": "vector build december.asm.memory.unityweb",
+"asmFrameworkUrl": "vector build december.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
