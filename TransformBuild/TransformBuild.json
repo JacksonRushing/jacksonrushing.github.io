@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TransformBuild.data.unityweb",
+"asmCodeUrl": "TransformBuild.asm.code.unityweb",
+"asmMemoryUrl": "TransformBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "TransformBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
