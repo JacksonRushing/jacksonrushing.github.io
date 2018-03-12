@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Work Study - Math Visualization",
+"dataUrl": "Physics Build.data.unityweb",
+"asmCodeUrl": "Physics Build.asm.code.unityweb",
+"asmMemoryUrl": "Physics Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Physics Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
